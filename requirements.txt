@@ -81,3 +81,4 @@ glitch_this
 NumPy
 opencv-python-headless
 googletrans==3.1.0a0
+pyrogram==1.4
